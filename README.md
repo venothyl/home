@@ -1,4 +1,4 @@
-### ja ich bin viel stärker, als ich je gedacht hab
+### My website, ladies and gents (it's sheiße, I know)
 
 <!--
 **venothyl/venothyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
