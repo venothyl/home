@@ -1,0 +1,53 @@
+body {background-color: black}
+body {color: white}
+p {overflow-wrap: anywhere;}
+@font-face {
+    font-family: vento;
+    src: url("vento.ttf") format("truetype");
+}
+
+#header {
+    z-index: 0;
+    position: fixed;
+    width: 100%;
+    margin-top: -20px;
+    height: 120px;
+    background-color: #226354;
+	margin-bottom: 10px;}
+html, body {
+ margin: 0;
+}
+.logo {
+	width: 200px;
+	height: 100px;
+	position: fixed;
+	z-index: 2;
+	top: 0%;
+	left: 0%
+	margin-top: 0px;
+	color: yellow;
+
+}
+p {font-family:  vento}
+p {z-index: -2}
+#twitter {
+  	background-image: url("twitter.ico");
+  	display: block;
+  	margin: auto;
+	width:32px;
+	height:130px;
+	margin-left:15px;"
+	z-index: 3;
+}
+#youtube {
+  	background-image: url("youtube.ico");
+  	display: block;
+  	margin: auto;
+	width:32px;
+	height:32px;
+	margin-right:15px;
+	margin-top:-50px;
+	z-index: 2;
+}
+
+
