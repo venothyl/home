@@ -35,18 +35,18 @@ p {z-index: -2}
   	display: block;
   	margin: auto;
 	width:32px;
-	height:130px;
-	margin-left:15px;"
+	height:32px;
+	top: 50%;
 	z-index: 3;
 }
 #youtube {
   	background-image: url("youtube.ico");
   	display: block;
-  	margin: auto;
+	position: absolute;
 	width:32px;
 	height:32px;
-	margin-right:15px;
-	margin-top:-50px;
+	top: 0px;
+	right: 10px;
 	z-index: 2;
 }
 
